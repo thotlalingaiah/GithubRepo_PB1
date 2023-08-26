@@ -34,15 +34,15 @@ end on
 type cb_1 from commandbutton within w_1
 integer x = 91
 integer y = 180
-integer width = 2025
-integer height = 920
+integer width = 3017
+integer height = 924
 integer taborder = 10
-integer textsize = -10
+integer textsize = -36
 integer weight = 400
 fontcharset fontcharset = ansi!
 fontpitch fontpitch = variable!
 fontfamily fontfamily = swiss!
 string facename = "Tahoma"
-string text = "Github "
+string text = "Thank you for watching"
 end type
 
