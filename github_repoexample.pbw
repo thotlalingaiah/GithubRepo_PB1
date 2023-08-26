@@ -1,0 +1,7 @@
+Save Format v3.0(19990112)
+@begin Targets
+ 0 "github_repoexample.pbt";
+@end;
+DefaultTarget "github_repoexample.pbt";
+DefaultExportEncode "UTF-8";
+DefaultRemoteTarget "github_repoexample.pbt";
